@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>com.adamkiss.utf2</string>
+	<string>top.anemone.utf2</string>
 	<key>category</key>
 	<string>Productivity</string>
 	<key>connections</key>
@@ -76,7 +76,7 @@
 		</array>
 	</dict>
 	<key>createdby</key>
-	<string>Adam Kiss</string>
+	<string>Adam Kiss(modified by Anemone)</string>
 	<key>description</key>
 	<string>Search through the Unicode database</string>
 	<key>disabled</key>
@@ -583,9 +583,11 @@ MIT License - see [LICENSE](./LICENSE)
 	</dict>
 	<key>userconfigurationconfig</key>
 	<array/>
+	<key>variablesdontexport</key>
+	<array/>
 	<key>version</key>
 	<string>2.1.0</string>
 	<key>webaddress</key>
-	<string>https://adamkiss.com</string>
+	<string>https://anemone.top/</string>
 </dict>
 </plist>
